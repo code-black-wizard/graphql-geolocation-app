@@ -1,5 +1,7 @@
 # graphql-geolocation-app
 
+[Demo](https://nord18.github.io/graphql-geolocation-app/dist/)
+
 ## Project setup
 ```
 npm install
